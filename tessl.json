@@ -1,9 +1,13 @@
 {
   "name": "tessl-carnival",
   "mode": "vendored",
+  "dependencies": {
+    "tessl-labs/factory-setup": {
+      "version": "0.24.0"
+    }
+  },
   "agents": [
     "claude-code",
     "codex"
-  ],
-  "dependencies": {}
+  ]
 }
