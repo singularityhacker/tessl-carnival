@@ -1,0 +1,9 @@
+{
+  "name": "tessl-carnival",
+  "mode": "vendored",
+  "agents": [
+    "claude-code",
+    "codex"
+  ],
+  "dependencies": {}
+}
